@@ -1,0 +1,4 @@
+telnet 0.tcp.ap.ngrok.io "port"
+Example: telnet 0.tcp.ap.ngrok.io 17818
+Change Password 
+net user administrator 
